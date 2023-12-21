@@ -27,7 +27,7 @@ export default function Cart() {
     dispatch(removeFromCart(item))
   }
   const placeOrder = (item) => {
-    toast('Order Placed!', {
+    toast('Order Placed!!!', {
       position: "top-right",
       autoClose: 5000,
       hideProgressBar: false,
