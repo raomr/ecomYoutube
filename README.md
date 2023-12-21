@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Following commands were run for installing required modules ##
+1.npx create-react-app practice-shop
+2.npm install @mui/material @emotion/react @emotion/styled --force
+3. npm install @mui/icons-material --force
+4.npm install react-redux
+5. npm install @reduxjs/toolkit
+6.npm i react-router-dom
+7. npm install react-responsive-carousel
+8.npm install --save react-toastify
